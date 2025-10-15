@@ -1,8 +1,8 @@
-# Bank of Maharashtra MahaMobile App Negative Review Analysis
+# Bank App Negative Review Analysis
 
 ## Overview
 
-This project provides a comprehensive automated system for analyzing negative user reviews of the Bank of Maharashtra MahaMobile mobile banking application. The system collects 1-2 star reviews from the Google Play Store and performs multi-layered analysis to identify common complaints, technical issues, and user experience problems.
+This project provides a comprehensive automated system for analyzing negative user reviews of the banking application. The system collects 1-2 star reviews from the Google Play Store and performs multi-layered analysis to identify common complaints, technical issues, and user experience problems.
 
 ## Project Description
 
